@@ -165,7 +165,6 @@ The OpenBook is an e-reader built around the ESP32-C6 chip. It uses an e-paper s
 | SENSOR2 | https://www.snapeda.com/parts/BME680/Bosch/view-part/?welcome=home | €10.50 |
 | MCP73831 | https://www.digikey.ro/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301 | €0.75 |
 | J1 | https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex | €1.25 |
-
 | R3 | https://componentsearchengine.com/part-view/R0402%201%25%20100%20K%20(RC0402FR-07100KL)/YAGEO | €0.01 |
 | R1_PWRUSB | https://componentsearchengine.com/part-view/R0402%201%25%20100%20K%20(RC0402FR-07100KL)/YAGEO | €0.01 |
 | IC4 | https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex | €1.25 |
